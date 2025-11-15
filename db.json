@@ -1,9 +1,11 @@
 {
-    "login/success" : {
-        "success" : true,
-        "session" : 12345678
-    },
-    "login/fail" : {
-        "success" : false,
+    "login" : {
+        "success" : {
+            "success" : true,
+            "session" : 12345678
+        },
+        "fail" : {
+        "   success" : false,
+        }
     }
 }
