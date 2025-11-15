@@ -5,7 +5,7 @@
             "session" : 12345678
         },
         "fail" : {
-            "success" : false,
+            "success" : false
         }
     }
 }
