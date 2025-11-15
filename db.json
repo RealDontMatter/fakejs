@@ -1,11 +1,23 @@
 {
-    "login" : {
+    "login": {
         "success" : {
             "success" : true,
             "session" : 12345678
         },
-        "fail" : {
+        "fail": {
             "success" : false
         }
-    }
+    },
+    "rooms" : [
+        {
+            "id" : 1
+        },
+        {
+            "id" : 2
+        },
+        {
+            "id" : 3
+        }
+    ]
+
 }
